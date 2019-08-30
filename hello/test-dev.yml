@@ -1,1 +1,2 @@
-name:spring-cloud-config-client
+server:
+  port: 7778
