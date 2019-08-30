@@ -2,5 +2,5 @@ spring:
   application:
     name: order
 
-server:
-  port: 7779
+env:
+  123456

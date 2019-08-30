@@ -1,2 +1,2 @@
-server:
-  port: 7121
+env:
+  123456
